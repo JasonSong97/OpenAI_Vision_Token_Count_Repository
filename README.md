@@ -161,6 +161,7 @@ high 디테일 모드 - 이미지의 토큰 개수: 8245
 low 디테일 모드 - 이미지의 토큰 개수: 85
 ```
 
-## 공식문서
+## INDEX
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 - [OpenAI Cookbook with tiktoken](https://cookbook.openai.com/examples/how_to_count_tokens_with_tiktoken)
+- [기술블로그](https://jasonsong97.tistory.com/5)
